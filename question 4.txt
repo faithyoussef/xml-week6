@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="UTF-8"?, <studyprogram> 
+<program semester="Fall" year="2008"> 
+<generalEducarion> <course1>PHIL 101</course1> <goal1>8</goal1>
+ <course2>ECON 201</course2> <goa12>11</goal12> </generalEducation> 
+<core> <coursel>MGT 217</courrel> </core> 
+<majorCourse> <course1>CIS 120</course1> <course2>CI3 403</course2> </majorCourze> 
+</program> 
+<program semester ="Spring" year="2009"> 
+<core>
+<course1>MGT 261</course1>
+<course2>MKTG 325</course2>
+</core>
+<majorCourse>
+<course1>CIS 220</course1>
+<course2>CIS 407</course2>
+<course3>CIS 490</course3>
+</majorCourse>
+
+</program>

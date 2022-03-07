@@ -1,0 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <person> <name> <firstname>Ray</firstname> 
+<lastname>shane</lastname> </name> <occupation>Engineer</occupation>
+ <address> <street>2656 DC, washington </street> <city>Washington</city> <country>United States</country>
+ </address> </name> <occupation> Engineer </occupation> <address>
+ <street>2006 Boulevard st </street> <city>CA</city> <country>United States</country>
+ </address> <hobbies> <hobby>Golffing</hobby> <hobby>Tennis</hobby› </hobbies> </person> 
+
